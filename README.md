@@ -43,7 +43,7 @@ The password will be encrypted using the **master key** and stored securely.
   
   A notification (e.g., a Bootstrap Toast or an alert) will appear confirming that the password has been copied.
 
-### Notes:
+## Notes:
 - Always keep your **master key** secure. If you lose or forget it, you won't be able to access the stored passwords.
 - Passwords are encrypted and securely stored in the **SQLite** database.
 
