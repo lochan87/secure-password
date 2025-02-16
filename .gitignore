@@ -1,0 +1,4 @@
+key.key
+generate_key.py
+__pycache__/
+passwords.db
